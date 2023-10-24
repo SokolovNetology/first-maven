@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f8e0ae-2f7d-43f2-ad83-2dbfdf63c96f" name="Changes" comment="ДЗ &quot;Многомодульный проект на Maven&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e4f8e0ae-2f7d-43f2-ad83-2dbfdf63c96f" name="Changes" comment="ДЗ &quot;Многомодульный проект на Maven&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,17 +52,34 @@
       <option name="project" value="LOCAL" />
       <updated>1698158271137</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ДЗ &quot;Многомодульный проект на Maven&quot;">
+      <created>1698158909964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698158909964</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1ae8508d-1ec4-4b3f-9d73-ab7ded1e56ca">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1ae8508d-1ec4-4b3f-9d73-ab7ded1e56ca" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
