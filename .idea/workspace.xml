@@ -7,11 +7,6 @@
     <list default="true" id="e4f8e0ae-2f7d-43f2-ad83-2dbfdf63c96f" name="Changes" comment="ДЗ &quot;Многомодульный проект на Maven&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/db/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/main/java/org/example/Db.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/org/example/Db.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/main/java/org/example/MyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/org/example/MyEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/example/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/org/example/MyService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698166483766</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ДЗ &quot;Многомодульный проект на Maven&quot;">
+      <created>1698346356624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698346356624</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
