@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>App</artifactId>
+        <artifactId>first-maven</artifactId>
         <groupId>ru.netology</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
@@ -15,6 +15,25 @@
     <dependencies>
         <dependency>
             <groupId>ru.netology</groupId>
+            <artifactId>db</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>db</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>ru.netology</groupId>
+            <artifactId>db</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.example</groupId>
             <artifactId>db</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>

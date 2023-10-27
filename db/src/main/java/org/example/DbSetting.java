@@ -10,4 +10,11 @@ public class DbSetting {
         this.password = password;
     }
 
+    public String getName(String name) {
+        return name;
+    }
+
+    public String getPassword(String password) {
+        return password;
+    }
 }
